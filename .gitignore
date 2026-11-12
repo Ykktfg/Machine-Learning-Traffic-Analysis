@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+datasets/raw/*
+datasets/processed/*
+
+# Models
+models/*.pkl
+models/*.joblib
+
+# Results
+results/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
